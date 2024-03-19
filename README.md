@@ -1,2 +1,1 @@
-# bosh-oneagent-release
-BOSH release for Dynatrace OneAgent
+This is bug bounty Hackerone test
